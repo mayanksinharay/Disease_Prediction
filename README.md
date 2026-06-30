@@ -29,8 +29,6 @@ The application allows users to enter patient information through an intuitive w
 
 **Coming Soon**
 
-*(Add your Streamlit Cloud link here after deployment.)*
-
 </div>
 
 ---
@@ -787,9 +785,9 @@ B.Tech in Computer Science & Engineering
 
 Aspiring Machine Learning & Data Science Engineer
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/mayanksinharay
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: www.linkedin.com/in/mayank-sinharay-2013a3346
 
 ---
 
