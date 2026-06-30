@@ -139,7 +139,8 @@ This makes the project significantly more comprehensive than a basic classificat
 ## 🏠 Home Page
 
 ```
-assets/home.png
+<img width="1920" height="940" alt="image" src="https://github.com/user-attachments/assets/3287dc66-4c62-4361-9f08-e4a2941b84ef" />
+
 ```
 
 ---
