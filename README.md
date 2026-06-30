@@ -130,36 +130,6 @@ This makes the project significantly more comprehensive than a basic classificat
 
 ✅ Streamlit Web Application
 
----
-
-# 📸 Application Preview
-
-> Replace these images with screenshots from your application.
-
-## 🏠 Home Page
-
-```
-<img width="1920" height="940" alt="image" src="https://github.com/user-attachments/assets/3287dc66-4c62-4361-9f08-e4a2941b84ef" />
-
-```
-
----
-
-## 📋 Patient Information Form
-
-```
-<img width="373" height="899" alt="image" src="https://github.com/user-attachments/assets/7d70887c-af31-492f-8296-a36c5eb709b3" />
-
-```
-
----
-
-## ❤️ Prediction Result
-
-```
-<img width="1920" height="934" alt="image" src="https://github.com/user-attachments/assets/ed35b6e8-6b7e-4698-8b29-f415b218df96" />
-
-```
 
 ---
 
