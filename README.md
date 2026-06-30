@@ -542,7 +542,7 @@ Replace these placeholders with your screenshots.
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Disease_Prediction.git
+git clone https://github.com/mayanksinharay/Disease_Prediction.git
 ```
 
 Move into the project directory
