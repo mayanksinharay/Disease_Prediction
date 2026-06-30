@@ -157,7 +157,8 @@ This makes the project significantly more comprehensive than a basic classificat
 ## ❤️ Prediction Result
 
 ```
-assets/result.png
+<img width="1920" height="934" alt="image" src="https://github.com/user-attachments/assets/ed35b6e8-6b7e-4698-8b29-f415b218df96" />
+
 ```
 
 ---
