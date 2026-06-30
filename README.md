@@ -509,33 +509,6 @@ Display Results
 
 ---
 
-# 📸 Streamlit Demo
-
-Replace these placeholders with your screenshots.
-
-## 🏠 Home Page
-
-<p align="center">
-<img src="assets/home.png" width="900">
-</p>
-
----
-
-## 📝 Input Form
-
-<p align="center">
-<img src="assets/input.png" width="900">
-</p>
-
----
-
-## ❤️ Prediction Result
-
-<p align="center">
-<img src="assets/result.png" width="900">
-</p>
-
----
 
 # ⚙ Installation
 
