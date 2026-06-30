@@ -1,0 +1,19 @@
+
+			Model : KNN
+
+			Accuracy : 0.7869
+			Precision : 0.7778
+			Recall : 0.8485
+			F1 Score : 0.8116
+
+			Classification Report
+			              precision    recall  f1-score   support
+
+           0       0.80      0.71      0.75        28
+           1       0.78      0.85      0.81        33
+
+    accuracy                           0.79        61
+   macro avg       0.79      0.78      0.78        61
+weighted avg       0.79      0.79      0.79        61
+
+			

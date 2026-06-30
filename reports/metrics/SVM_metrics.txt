@@ -1,0 +1,19 @@
+
+			Model : SVM
+
+			Accuracy : 0.7705
+			Precision : 0.7714
+			Recall : 0.8182
+			F1 Score : 0.7941
+
+			Classification Report
+			              precision    recall  f1-score   support
+
+           0       0.77      0.71      0.74        28
+           1       0.77      0.82      0.79        33
+
+    accuracy                           0.77        61
+   macro avg       0.77      0.77      0.77        61
+weighted avg       0.77      0.77      0.77        61
+
+			
