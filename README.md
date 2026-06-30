@@ -148,7 +148,8 @@ This makes the project significantly more comprehensive than a basic classificat
 ## 📋 Patient Information Form
 
 ```
-assets/form.png
+<img width="373" height="899" alt="image" src="https://github.com/user-attachments/assets/7d70887c-af31-492f-8296-a36c5eb709b3" />
+
 ```
 
 ---
