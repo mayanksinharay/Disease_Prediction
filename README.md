@@ -12,6 +12,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?style=for-the-badge&logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diseaseprediction-vacappbr6g7n4cy6mmzatzk.streamlit.app/)
 
 </p>
 
@@ -27,7 +28,8 @@ The application allows users to enter patient information through an intuitive w
 
 ## 🚀 Live Demo
 
-**Coming Soon**
+**Try the app here**
+https://diseaseprediction-vacappbr6g7n4cy6mmzatzk.streamlit.app/
 
 </div>
 
